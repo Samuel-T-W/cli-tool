@@ -1,2 +1,2 @@
 # cli-tool
-a windows version of the tree command in linux
+a command line tool made with python and click that mimicks the tree command in linux.
